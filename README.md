@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Product & Authentication API
 
 A REST API built with Express 5 and PostgreSQL. It provides product CRUD operations, product name search and pagination, and user registration and login.
@@ -211,3 +212,7 @@ server.js       Router mounting, error handling, and server startup
 ## Development and tests
 
 Run the application with `npm start`. The repository does not currently define an automated test suite; `npm test` is a placeholder and exits with an error.
+=======
+# Task_manager_api
+>>>>>>> a7c1de7ad58f8e32b2539ac3a0566bf111fc08a3
+# Task_manager_api
